@@ -10,3 +10,4 @@ rootProject.name = "Feitan"
 include ':app'
 include ':core'
 include ':ui:home'
+include ':ui:commons'
